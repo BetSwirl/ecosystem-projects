@@ -1,0 +1,22 @@
+{
+    "name": "BetSwirl",
+    "slug": "betswirl",
+    "date": "2022-03-01",
+    "highlight": "BetSwirl aims to be THE decentralized gambling platform: provably fair, non-custodial, licensed, trustless and community driven.",
+    "logo": "/img/betswirl.png",
+    "tags": [
+        "gaming",
+        "defi"
+    ],
+    "status": "live",
+    "website": "https://www.betswirl.com",
+    "twitter": "https://twitter.com/betswirl",
+    "summary": "While traditional blockchain casinos target the gambler's demographic, BetSwirl aims to bring innovative gameplay with storytelling coupled with eye-pleasing and creative designs. Own $BETS and play a central role in BetSwirl's DeFi ecosystem. Earn a share of BetSwirl's profits on games in all crypto currencies available in the bank.",
+    "telegram": "https://t.me/betswirl",
+    "discord": "https://discord.gg/4BxtJV7fbZ",
+    "docs": "https://documentation.betswirl.com",
+    "github": "https://github.com/BetSwirl",
+    "token": "BETS",
+    "cmc": "https://coinmarketcap.com/currencies/betswirl"
+  }
+  
